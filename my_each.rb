@@ -6,3 +6,9 @@ def my_each (array )
  count += 1 
 end
 end
+
+my_each(words) do |words|
+
+
+
+end 
