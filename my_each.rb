@@ -8,8 +8,3 @@ def my_each (array )
  
 end
 
-my_each(words) do |words|
-
-
-
-end 
