@@ -5,3 +5,4 @@ def my_each (array )
  yield(array[i])
  count += 1 
 end
+end
